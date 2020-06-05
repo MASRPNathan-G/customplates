@@ -1,14 +1,16 @@
-#Custom Plate Images For Vehicles
+Custom Plate Images For Vehicles
+=
 
-
-#What Does This Do?
+What Does This Do?
+=
 
 Well, simply put; you can change the background image for license plates! Once upon a time you were able to stream the `vehshare.ytd` file to do this, however this is no longer possible. 
 
 This method uses a FiveM Native function to replace the texture via script.
 
 
-#How Do I Change The Plate Background To A Custom Image?
+How Do I Change The Plate Background To A Custom Image?
+=
 
 It's pretty simple
 
@@ -18,7 +20,8 @@ It's pretty simple
 4. Get the raw image file URL (URL should end with a `.png`)
 5. Paste your URL into the `config.lua`
 
-#Possibly Important Stuff
+Possibly Important Stuff
+=
 
 First off, here are the template files
 - Help Image  [Raw](https://i.imgur.com/30nUtFe.png) -- This is just an image to show where the license text will appear
