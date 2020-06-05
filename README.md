@@ -34,13 +34,10 @@ First off, here are the template files
 Without configuration, this script will give in-game license plates a texture glitch
 *I will not be providing assistance with the creation of textures for the plates*
 
-Examples
+Example
 =
 
-[details="Hidden Stuff Here"]
-![image0|169x300](upload://mjQXEOitZBcV0iGtqH8KNbRLv9q.png) 
-![Screenshot_510|690x236](upload://pFIHmJtBg0Uo40YZQ4diSzy1J4o.jpeg) 
-[/details]
+[Here](https://i.imgur.com/J55F9ms.png)
 
 ---
 Hey! Read Me For More Plates
