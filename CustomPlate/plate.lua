@@ -1,5 +1,5 @@
 --- IMAGE CONFIG HERE ---
-imageUrl = "Insert URL Here" -- Paste your image URL here (doesn't have to be from imgur)
+imageUrl = "Image URL Here" -- Paste your image URL here (doesn't have to be from imgur)
 
 
 -- The actual script --
@@ -14,7 +14,7 @@ AddReplaceTexture('vehshare', 'plate04', 'duiTxd', 'duiTex') -- Applies "duiTex"
 AddReplaceTexture('vehshare', 'plate05', 'duiTxd', 'duiTex') -- Applies "duiTex" from "duiTxd" to "plate05" from "vehshare"
 
 
-local object = CreateDui('https://i.imgur.com/Q3uw6V7.png', 540, 300) -- Load image into object
+local object = CreateDui('https://i.imgur.com/Q3uw6V7.png', 540, 300) -- this URL doesn't need to be edited, its just the 2d model for the plate -- Load image into object
 local handle = GetDuiHandle(object) -- Gets DUI handle from object
 CreateRuntimeTextureFromDuiHandle(textureDic, "duiTex2", handle) -- Creates the texture "duiTex" in the "duiTxd" dictionary
 AddReplaceTexture('vehshare', 'plate01_n', 'duiTxd', 'duiTex2') -- Applies "duiTex2" from "duiTxd" to "plate01_n" from "vehshare"
